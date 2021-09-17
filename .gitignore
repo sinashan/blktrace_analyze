@@ -1,0 +1,8 @@
+*.txt
+*.pdf
+*.cfg
+bin/
+include/
+lib64/
+lib/
+
